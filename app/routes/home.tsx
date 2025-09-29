@@ -180,6 +180,7 @@ export default function PortfolioPortfolio() {
         "/assets/img/projects/webui/Screenshot_20250929-133647_WhatsApp.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-133654_WhatsApp.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-133657_WhatsApp.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-133710_WhatsApp.jpg",
       ],
     },
     {
@@ -230,7 +231,7 @@ description:
       gallery: [
         "/assets/img/projects/webui/Screenshot_20250929-133704_WhatsApp.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-133708_WhatsApp.jpg",
-        "/assets/img/projects/webui/Screenshot_20250929-133710_WhatsApp.jpg",
+        
       ],
     },
     {
