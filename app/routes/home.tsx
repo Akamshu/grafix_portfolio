@@ -201,8 +201,8 @@ export default function PortfolioPortfolio() {
     },
     {
       id: 6,
-    title: "Jotter Designs",
-tags: ["Stationery", "Branding", "Custom Printing"],
+      title: "Jotter Designs",
+      tags: ["Stationery", "Branding", "Custom Printing"],
       description:
         "Beautifully crafted jotter designs that blend functionality with creativity, perfect for schools, events, businesses, and personal use.",
       gallery: [
@@ -216,7 +216,7 @@ tags: ["Stationery", "Branding", "Custom Printing"],
       title: "Awards & Certificate Designs",
       tags: ["Recognition", "Corporate", "Education"],
 description:
-"Elegant and professional award and certificate designs created to celebrate achievements, recognize excellence, and mark special milestones.,
+"Elegant and professional award and certificate designs created to celebrate achievements, recognize excellence, and mark special milestones.",
       gallery: [
         "https://images.unsplash.com/photo-1564869735327-3e94b47a7d96?w=1200&q=80",
         "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=1200&q=80",
