@@ -136,7 +136,7 @@ export default function PortfolioPortfolio() {
   const projects: Project[] = [
     {
       id: 1,
-      title: "Brand Identity — Oryx Co.",
+      title: "Brand Identity",
       tags: ["Branding", "Logo", "Guidelines"],
       description:
         "Full brand system including logo set, color palette, type scale and mockups.",
@@ -148,8 +148,8 @@ export default function PortfolioPortfolio() {
     },
     {
       id: 2,
-      title: "Packaging — Mazi Foods",
-      tags: ["Packaging", "Illustration"],
+      title: "Packaging",
+      tags: ["Packaging", "Illustration, Mockups"],
       description:
         "Illustrated product packaging converging heritage motifs with modern layouts.",
       gallery: [
@@ -160,10 +160,10 @@ export default function PortfolioPortfolio() {
     },
     {
       id: 3,
-      title: "UI Design — Travel App",
-      tags: ["UI/UX", "Mobile", "Prototype"],
+      title: "Company Profile Designs",
+      tags: ["Business Branding", "Corporate Identity", "Marketing"],
       description:
-        "Clean mobile interface for a travel booking platform with smooth flows and dark mode support.",
+    "Professional and well-structured company profiles designed to showcase your brand’s identity, values, services, and achievements. Each profile is crafted to leave a lasting impression on clients, investors, clarity, credibility, and visual appeal.",
       gallery: [
         "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&q=80",
         "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200&q=80",
@@ -172,10 +172,10 @@ export default function PortfolioPortfolio() {
     },
     {
       id: 4,
-      title: "Web Redesign — Cafe Delights",
-      tags: ["Web Design", "Responsive", "Brand Refresh"],
+      title: "Flyers Design",
+      tags: ["Web Design", "Schools", "Church, etc"],
       description:
-        "A warm, modern look for a cafe website optimized for all screen sizes.",
+        "Eye-catching and professional flyer designs that effectively communicate your message for schools, churches, businesses, and events",
       gallery: [
         "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
         "https://images.unsplash.com/photo-1503602642458-232111445657?w=1200&q=80",
@@ -201,10 +201,10 @@ export default function PortfolioPortfolio() {
     },
     {
       id: 6,
-      title: "E-commerce Website — StyleHub",
-      tags: ["UI/UX", "E-commerce", "Web Design"],
+    title: "Jotter Designs",
+tags: ["Stationery", "Branding", "Custom Printing"],
       description:
-        "Fashion e-commerce interface with clean product cards and modern checkout flow.",
+        "Beautifully crafted jotter designs that blend functionality with creativity, perfect for schools, events, businesses, and personal use.",
       gallery: [
         "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1200&q=80",
         "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80",
@@ -213,10 +213,10 @@ export default function PortfolioPortfolio() {
     },
     {
       id: 7,
-      title: "Infographic — Climate Impact",
-      tags: ["Data Viz", "Illustration", "Infographics"],
-      description:
-        "Educational infographic showing climate change impacts with engaging illustrations.",
+      title: "Awards & Certificate Designs",
+      tags: ["Recognition", "Corporate", "Education"],
+description:
+"Elegant and professional award and certificate designs created to celebrate achievements, recognize excellence, and mark special milestones.,
       gallery: [
         "https://images.unsplash.com/photo-1564869735327-3e94b47a7d96?w=1200&q=80",
         "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=1200&q=80",
@@ -225,19 +225,7 @@ export default function PortfolioPortfolio() {
     },
     {
       id: 8,
-      title: "Logo Design — NexaTech",
-      tags: ["Logo", "Identity"],
-      description:
-        "Minimal and futuristic logo design for a growing SaaS startup.",
-      gallery: [
-        "https://images.unsplash.com/photo-1612832021085-8a502b7f84f4?w=1200&q=80",
-        "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=1200&q=80",
-        "https://images.unsplash.com/photo-1620641788421-7a1d3b9d95f0?w=1200&q=80",
-      ],
-    },
-    {
-      id: 9,
-      title: "Social Media Campaign",
+      title: "Social Media Ads",
       tags: ["Social Media", "Marketing", "Visuals"],
       description:
         "Carousel and post templates for Instagram, boosting brand engagement and consistency.",
@@ -248,8 +236,8 @@ export default function PortfolioPortfolio() {
       ],
     },
     {
-      id: 10,
-      title: "Magazine Layout — Art Today",
+      id: 9,
+      title: "Magazine Layout",
       tags: ["Editorial", "Print", "Layout"],
       description:
         "Editorial design project with clean grid-based magazine spreads and strong visual hierarchy.",
