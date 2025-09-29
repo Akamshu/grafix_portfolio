@@ -302,7 +302,7 @@ description:
       <AnimatePresence>
         {menuOpen && (
           <motion.div
-            className="fixed inset-0 z-50 bg-light bg-opacity-50"
+            className="fixed inset-0 z-50 bg-dark bg-opacity-80"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
