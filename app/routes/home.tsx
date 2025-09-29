@@ -149,7 +149,7 @@ export default function PortfolioPortfolio() {
     {
       id: 2,
       title: "Packaging",
-      tags: ["Packaging", "Illustration, Mockups"],
+      tags: ["Packaging", "Illustration", "Mockups"],
       description:
         "Illustrated product packaging converging heritage motifs with modern layouts.",
       gallery: [
