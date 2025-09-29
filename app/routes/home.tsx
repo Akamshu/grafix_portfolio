@@ -141,7 +141,7 @@ export default function PortfolioPortfolio() {
       description:
         "Full brand system including logo set, color palette, type scale and mockups.",
       gallery: [
-        "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=1200&q=80",
+        "/assets/img/projects/webui/Screenshot_20250929-133730_WhatsApp.jpg",
         "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
         "https://images.unsplash.com/photo-1503602642458-232111445657?w=1200&q=80",
       ],
@@ -153,7 +153,7 @@ export default function PortfolioPortfolio() {
       description:
         "Illustrated product packaging converging heritage motifs with modern layouts.",
       gallery: [
-        "https://images.unsplash.com/photo-1542831371-d531d36971e6?w=1200&q=80",
+        "/assets/img/projects/webui/Screenshot_20250929-133730_WhatsApp.jpg",
         "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=1200&q=80",
         "https://images.unsplash.com/photo-1503602642458-232111445657?w=1200&q=80",
       ],
@@ -177,9 +177,9 @@ export default function PortfolioPortfolio() {
       description:
         "Eye-catching and professional flyer designs that effectively communicate your message for schools, churches, businesses, and events",
       gallery: [
-        "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
-        "https://images.unsplash.com/photo-1503602642458-232111445657?w=1200&q=80",
-        "https://images.unsplash.com/photo-1521747116042-5a810fda9664?w=1200&q=80",
+        "/assets/img/projects/webui/Screenshot_20250929-133647_WhatsApp.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-133654_WhatsApp.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-133657_WhatsApp.jpg",
       ],
     },
     {
@@ -194,9 +194,7 @@ export default function PortfolioPortfolio() {
         "/assets/img/projects/webui/3.JPG",
         "/assets/img/projects/webui/4.JPG",
         "/assets/img/projects/webui/5.JPG",
-        "/assets/img/projects/webui/6.JPG",
-        "/assets/img/projects/webui/7.JPG",
-        "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&q=80",
+       
       ],
     },
     {
@@ -230,9 +228,9 @@ description:
       description:
         "Carousel and post templates for Instagram, boosting brand engagement and consistency.",
       gallery: [
-        "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=1200&q=80",
-        "https://images.unsplash.com/photo-1503602642458-232111445657?w=1200&q=80",
-        "https://images.unsplash.com/photo-1589987607627-1e2f3a39aea5?w=1200&q=80",
+        "/assets/img/projects/webui/Screenshot_20250929-133704_WhatsApp.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-133708_WhatsApp.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-133710_WhatsApp.jpg",
       ],
     },
     {
