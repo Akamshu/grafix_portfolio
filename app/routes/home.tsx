@@ -122,14 +122,7 @@ export default function PortfolioPortfolio() {
         "Designed branding materials, social media graphics, and web assets that improved organizational communication and outreach impact.",
       icon: <FaBriefcase className="text-purple-500" />,
     },
-    {
-      year: "Future",
-      title: "Creative Director / Senior Designer",
-      place: "Global Design & Web Development Industry",
-      description:
-        "Aiming to expand into advanced UI/UX, product design, and creative direction, delivering impactful designs for startups and global brands.",
-      icon: <FaGraduationCap className="text-yellow-500" />,
-    },
+   
   ];
 
 
