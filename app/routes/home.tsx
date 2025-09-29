@@ -142,8 +142,8 @@ export default function PortfolioPortfolio() {
         "Full brand system including logo set, color palette, type scale and mockups.",
       gallery: [
         "/assets/img/projects/webui/Screenshot_20250929-133730_WhatsApp.jpg",
-        "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
-        "https://images.unsplash.com/photo-1503602642458-232111445657?w=1200&q=80",
+        "/assets/img/projects/webui/Screenshot_20250929-133735_WhatsApp.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-133740_WhatsApp.jpg",
       ],
     },
     {
