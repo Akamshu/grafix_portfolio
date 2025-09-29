@@ -227,7 +227,7 @@ description:
       gallery: [
         "/assets/img/projects/webui/Screenshot_20250929-140935_WhatsAppBusiness.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-140939_WhatsAppBusiness.jpg",
-        "/assets/img/projects/webui/Screenshot_20250929-141112_WhatsAppBusiness.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-141112_WPS Office.jpg",
       ],
     },
     {
