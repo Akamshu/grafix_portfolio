@@ -165,9 +165,14 @@ export default function PortfolioPortfolio() {
       description:
     "Professional and well-structured company profiles designed to showcase your brand’s identity, values, services, and achievements. Each profile is crafted to leave a lasting impression on clients, investors, clarity, credibility, and visual appeal.",
       gallery: [
-        "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&q=80",
-        "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200&q=80",
-        "https://images.unsplash.com/photo-1558655146-d09347e92766?w=1200&q=80",
+        "/assets/img/projects/webui/1.jpg",
+        "/assets/img/projects/webui/3-1.jpg",
+       "/assets/img/projects/webui/4-1.jpg",
+        "/assets/img/projects/webui/8.jpg",
+        "/assets/img/projects/webui/9.jpg",
+        "/assets/img/projects/webui/10.jpg",
+        "/assets/img/projects/webui/11.jpg",
+        "/assets/img/projects/webui/12.jpg",
       ],
     },
     {
@@ -181,6 +186,9 @@ export default function PortfolioPortfolio() {
         "/assets/img/projects/webui/Screenshot_20250929-133654_WhatsApp.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-133657_WhatsApp.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-133710_WhatsApp.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-140836_WhatsAppBusiness.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-140829_WhatsAppBusiness.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-140823_WhatsAppBusiness.jpg",
       ],
     },
     {
@@ -205,9 +213,9 @@ export default function PortfolioPortfolio() {
       description:
         "Beautifully crafted jotter designs that blend functionality with creativity, perfect for schools, events, businesses, and personal use.",
       gallery: [
-        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1200&q=80",
-        "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80",
-        "https://images.unsplash.com/photo-1517430816045-df4b7de1d0f3?w=1200&q=80",
+        "/assets/img/projects/webui/Screenshot_20250929-140920_WhatsAppBusiness.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-140912_WhatsAppBusiness.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-140904_WhatsAppBusiness.jpg",
       ],
     },
     {
@@ -217,9 +225,9 @@ export default function PortfolioPortfolio() {
 description:
 "Elegant and professional award and certificate designs created to celebrate achievements, recognize excellence, and mark special milestones.",
       gallery: [
-        "https://images.unsplash.com/photo-1564869735327-3e94b47a7d96?w=1200&q=80",
-        "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=1200&q=80",
-        "https://images.unsplash.com/photo-1581092334607-1ff1c62a8bc9?w=1200&q=80",
+        "/assets/img/projects/webui/Screenshot_20250929-140935_WhatsAppBusiness.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-140939_WhatsAppBusiness.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-141112_WhatsAppBusiness.jpg",
       ],
     },
     {
