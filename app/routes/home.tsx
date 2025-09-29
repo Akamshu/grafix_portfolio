@@ -701,7 +701,7 @@ description:
                       key={galleryIndex}
                       src={selected.gallery[galleryIndex]}
                       alt={selected.title}
-                      className="w-full h-96 object-cover"
+                      className="w-full h-full object-cover"
                       initial={{ opacity: 0, x: 50 }}
                       animate={{ opacity: 1, x: 0 }}
                       exit={{ opacity: 0, x: -50 }}
