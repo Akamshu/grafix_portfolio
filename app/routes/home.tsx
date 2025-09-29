@@ -146,9 +146,9 @@ export default function PortfolioPortfolio() {
       description:
         "Illustrated product packaging converging heritage motifs with modern layouts.",
       gallery: [
-        "/assets/img/projects/webui/Screenshot_20250929-133730_WhatsApp.jpg",
         "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=1200&q=80",
         "https://images.unsplash.com/photo-1503602642458-232111445657?w=1200&q=80",
+        "/assets/img/projects/webui/Screenshot_20250929-133730_WhatsApp.jpg",
       ],
     },
     {
@@ -160,7 +160,7 @@ export default function PortfolioPortfolio() {
       gallery: [
         "/assets/img/projects/webui/1.jpg",
         "/assets/img/projects/webui/3-1.jpg",
-       "/assets/img/projects/webui/4-1.jpg",
+        "/assets/img/projects/webui/4-1.jpg",
         "/assets/img/projects/webui/8.jpg",
         "/assets/img/projects/webui/9.jpg",
         "/assets/img/projects/webui/10.jpg",
@@ -171,7 +171,7 @@ export default function PortfolioPortfolio() {
     {
       id: 4,
       title: "Flyers Design",
-      tags: ["Web Design", "Schools", "Church, etc"],
+      tags: ["Web Design", "Schools", "Church", "Business"],
       description:
         "Eye-catching and professional flyer designs that effectively communicate your message for schools, churches, businesses, and events",
       gallery: [
