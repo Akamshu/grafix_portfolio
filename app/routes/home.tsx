@@ -196,7 +196,7 @@ export default function PortfolioPortfolio() {
         "/assets/img/projects/webui/3.JPG",
         "/assets/img/projects/webui/4.JPG",
         "/assets/img/projects/webui/5.JPG",
-       
+       "/assets/img/projects/webui/FB_IMG_1756732854278.jpg",
       ],
     },
     {
