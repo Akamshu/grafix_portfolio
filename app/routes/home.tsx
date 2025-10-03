@@ -563,7 +563,7 @@ description:
                     <FontAwesomeIcon icon={faWhatsapp} size="lg" />
                   </a>
                   <a
-                    href="https://instagram.com/yourhandle"
+                    href="https://instagram.com/kponkius_gabriel/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-pink-500 transition"
@@ -571,7 +571,7 @@ description:
                     <FontAwesomeIcon icon={faInstagram} size="lg" />
                   </a>
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/kponkius-gabriel/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-purple-600 transition"
@@ -580,7 +580,7 @@ description:
                   </a>
 
                   <a
-                    href="https://github.com"
+                    href="https://github.com/akamshu/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-purple-600 transition"
@@ -654,7 +654,7 @@ description:
                   <FaWhatsapp />
                 </a>
                 <a
-                  href="https://instagram.com/yourprofile"
+                  href="https://instagram.com/kponkius_gabriel/"
                   target="_blank"
                   className="hover:text-pink-600 text-4xl"
                   rel="noreferrer"
@@ -662,7 +662,7 @@ description:
                   <FaInstagram />
                 </a>
                 <a
-                  href="https://linkedin.com/in/yourprofile"
+                  href="https://www.linkedin.com/in/kponkius-gabriel/"
                   target="_blank"
                   className="hover:text-blue-600 text-4xl"
                   rel="noreferrer"
