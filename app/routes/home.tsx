@@ -147,6 +147,7 @@ export default function PortfolioPortfolio() {
         "Illustrated product packaging converging heritage motifs with modern layouts.",
       gallery: [
         "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=1200&q=80",
+        "/assets/img/projects/webui/Screenshot_20250929-133740_WhatsApp.jpg",
         "https://images.unsplash.com/photo-1503602642458-232111445657?w=1200&q=80",
         "/assets/img/projects/webui/Screenshot_20250929-133730_WhatsApp.jpg",
       ],
