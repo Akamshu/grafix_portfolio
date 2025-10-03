@@ -183,6 +183,7 @@ export default function PortfolioPortfolio() {
         "/assets/img/projects/webui/Screenshot_20250929-140836_WhatsAppBusiness.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-140829_WhatsAppBusiness.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-140823_WhatsAppBusiness.jpg",
+        "/assets/img/projects/webui/allery.jpg", 
       ],
     },
     {
@@ -233,7 +234,7 @@ description:
       gallery: [
         "/assets/img/projects/webui/Screenshot_20250929-133704_WhatsApp.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-133708_WhatsApp.jpg",
-        "/assets/img/projects/webui/allery.jpg", 
+        "/assets/img/projects/webui/000.png", 
         "/assets/img/projects/webui/INDEP.jpg",
         "/assets/img/projects/webui/IMG-20250715-WA0004(1).jpg",
         "/assets/img/projects/webui/IMG-20251003-WA0000.jpg",
