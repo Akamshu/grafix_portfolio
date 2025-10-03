@@ -233,6 +233,11 @@ description:
       gallery: [
         "/assets/img/projects/webui/Screenshot_20250929-133704_WhatsApp.jpg",
         "/assets/img/projects/webui/Screenshot_20250929-133708_WhatsApp.jpg",
+        "/assets/img/projects/webui/Screenshot_20250929-133708_WhatsApp.jpg",
+        "/assets/img/projects/webui/INDEP.jpg",
+        "/assets/img/projects/webui/IMG-20250715-WA0004(1).jpg",
+        "/assets/img/projects/webui/IMG-20251003-WA0000.jpg",
+        "/assets/img/projects/webui/IMG-20250924-WA0006.jpg",
         
       ],
     },
