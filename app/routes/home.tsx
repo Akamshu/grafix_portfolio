@@ -239,6 +239,8 @@ description:
         "/assets/img/projects/webui/IMG-20250715-WA0004(1).jpg",
         "/assets/img/projects/webui/IMG-20251003-WA0000.jpg",
         "/assets/img/projects/webui/IMG-20250924-WA0006.jpg",
+        "/assets/img/projects/webui/SS.jpg",
+        "/assets/img/projects/webui/tgif.jpg",
         
       ],
     },
