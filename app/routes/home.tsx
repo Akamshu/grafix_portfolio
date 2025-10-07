@@ -512,7 +512,7 @@ description:
                 <img
                   src={p.gallery[0]}
                   alt={p.title}
-                  className="w-full h-44 object-cover"
+                  className="w-full max-h-56 object-cover rounded-lg transition-transform duration-300 hover:scale-105"
                 />
                 <div className="p-4">
                   <h3 className="font-semibold">{p.title}</h3>
